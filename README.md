@@ -13,7 +13,9 @@ All machine learning algorithms have been implemented using both numpy and sciki
   * Basic Neural Network
   * Support Vector Machines (SVM)
   * XGBoost
+
 A short theory report of the same has been uploaded for a quick review behind the math and logic used in each algorithm.
+
 More algorithms coming soon!
 
 Thanks for visiting!
